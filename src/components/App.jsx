@@ -1,3 +1,5 @@
 export const App = () => {
-  return <div></div>
+  return <div>
+    <Paintin item={chlen}></Paintin>
+  </div>
 };
