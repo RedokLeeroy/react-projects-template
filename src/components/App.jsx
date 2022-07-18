@@ -1,5 +1,5 @@
 export const App = () => {
   return <div>
-    <Paintin item={chlen}></Paintin>
+    <Painting></Painting>
   </div>
 };
